@@ -12,7 +12,7 @@ export default function About() {
       </div>
 
     {/* Special Offers */}
-    <div className="h-full w-1/2 grid grid-cols-1 gap-[10px] p-[20px] bg-[url('/assets/images/stefangospic_clean_empty_black_texture_background_with_smoke__f978dd59-baf4-4e78-81ff-7e331c98791c_2.png')] bg-cover bg-center bg-no-repeat rounded-[20px] overflow-y-auto max-h-[90vh] scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-transparent">
+    <div className="h-full w-1/2 grid grid-cols-1 gap-[10px] p-[20px] bg-[url('/assets/images/stefangospic_clean_empty_black_texture_background_with_smoke__f978dd59-baf4-4e78-81ff-7e331c98791c_2.png')] bg-cover bg-center bg-no-repeat rounded-[20px] overflow-y-auto max-h-[90vh] scrollbar-thin scrollbar-thumb-black scrollbar-track-black">
 
         {/* Title */}
         <div className="w-full">
