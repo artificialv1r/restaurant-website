@@ -23,7 +23,7 @@ export default function Blog() {
                 <div className="w-[120px] h-[120px]"><img className="rounded-[20px]" src="/assets/images/stefangospic_httpss.mj.rungtCdL-kJCX8_beef_ribeye_--v_6.1_8204ed6b-3901-4038-a963-a53a88e1134d_2.webp" alt="ribeye" /></div>
                 <div className="w-[650px] flex flex-col gap-[10px] ml-[15px] justify-center items-start">
                     <h2 className="font-semibold text-[14pt]">Why Ribeye Steak is the King of Premium Cuts</h2>
-                    <h2 className="text-[12pt] text-[#F3F3F3]">Discover what makes ribeye steak the crown jewel of beef cuts. From its perfect marbling to melt-in-your-mouth tenderness, learn why steak lovers can't resist this premium cut—and where to find the best ribeye in town.</h2>
+                    <h2 className="text-[12pt] text-[#F3F3F3]">Discover what makes ribeye steak the crown jewel of beef cuts. From its perfect marbling to melt-in-your-mouth tenderness, learn why steak lovers can&apos;t resist this premium cut—and where to find the best ribeye in town.</h2>
                 </div>
             </div>
             <div className="flex">
@@ -37,14 +37,14 @@ export default function Blog() {
                 <div className="w-[120px] h-[120px]"><img className="rounded-[20px]" src="/assets/images/stefangospic_httpss.mj.rungtCdL-kJCX8_beef_ribs_on_a_plate_--_d93f6af9-570a-4833-9416-7b03a043954a_1.webp" alt="premiun ribs" /></div>
                 <div className="w-[650px] flex flex-col gap-[10px] ml-[15px] justify-center items-start">
                     <h2 className="font-semibold text-[14pt]">The Secret to Perfect Premium Ribs: Slow, Smoky, and Savory</h2>
-                    <h2 className="text-[12pt] text-[#F3F3F3]">Ever wonder what makes premium ribs fall-off-the-bone delicious? Explore our chef's techniques for preparing the juiciest, most flavorful ribs you'll ever taste—crafted from the finest beef cuts only.</h2>
+                    <h2 className="text-[12pt] text-[#F3F3F3]">Ever wonder what makes premium ribs fall-off-the-bone delicious? Explore our chef&apos;s techniques for preparing the juiciest, most flavorful ribs you&apos;ll ever taste—crafted from the finest beef cuts only.</h2>
                 </div>
             </div>
             <div className="flex">
                 <div className="w-[120px] h-[120px]"><img className="rounded-[20px]" src="/assets/images/stefangospic_httpss.mj.rungtCdL-kJCX8_beef_burger_on_a_plate__f421559d-efa5-405e-81c2-ca2edac3204d_2.webp" alt="premium burger" /></div>
                 <div className="w-[650px] flex flex-col gap-[10px] ml-[15px] justify-center items-start">
                     <h2 className="font-semibold text-[14pt]">Burger Goals: Inside Our Premium Beef Burger Experience</h2>
-                    <h2 className="text-[12pt] text-[#F3F3F3]">Not your average burger. Our premium beef burger is handcrafted with top-grade beef, fresh toppings, and grilled to perfection. Here's why foodies are calling it the best burger in the city.</h2>
+                    <h2 className="text-[12pt] text-[#F3F3F3]">Not your average burger. Our premium beef burger is handcrafted with top-grade beef, fresh toppings, and grilled to perfection. Here&apos;s why foodies are calling it the best burger in the city.</h2>
                 </div>
             </div>
         </div>
