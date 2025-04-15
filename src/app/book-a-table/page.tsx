@@ -64,7 +64,7 @@ export default function Menu() {
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2830.177009889716!2d20.45727351581372!3d44.81654697909837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a7abddbc9391d%3A0x9799e91f47c2db41!2sRepublic%20Square!5e0!3m2!1sen!2srs!4v1710000000000!5m2!1sen!2srs"
         width="100%"
         height="250"
-        allowFullScreen=""
+        allowFullScreen={true}
         loading="lazy"
         className="rounded-md border border-gray-300 grayscale-[40%] contrast-[80%] brightness-[60%]"
       ></iframe>
