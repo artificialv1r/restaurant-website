@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Navbar from "../../../public/components/navbar";
 
 export default function Menu() {
