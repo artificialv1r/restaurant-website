@@ -3,12 +3,16 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  --font-playfair: 'Playfair Display', serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-raleway: 'Raleway', sans-serif;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --font-sans: var(--font-montserrat);
   --font-mono: var(--font-geist-mono);
 }
 
@@ -20,7 +24,14 @@
 }
 
 body {
-  background: var(--background);
+  background: url('/assets/images/stefangospic_premium_baked_beef_stake_on_a_dark_plate_with_cl_1cee20bd-5a36-4781-88e1-90b9d02f78f5_2.webp') no-repeat center center fixed;
+  background-size: cover;
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-montserrat), var(--font-playfair), var(--font-raleway);
+}
+h1{
+  font-family: var(--font-playfair);
+}
+h2{
+  font-family: var(--font-raleway);
 }
