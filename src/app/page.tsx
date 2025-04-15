@@ -21,7 +21,7 @@ export default function Home() {
       <div className="absolute inset-0 bg-[url('/assets/images/stefangospic_premium_beef_stake_on_a_dark_plate_dark_backgrou_74c6b5e2-1500-49eb-8881-8c843eab175b_3.webp')] bg-cover bg-center transition-all duration-300 group-hover:blur-sm"></div>
       <div className="relative z-10 flex justify-center items-center h-[200px]">
       <div className="w-[100px] bg-black rounded-[6px]">
-        <h2 className="text-[24px] text-white text-center">Menu</h2>
+        <h2 className="text-[20pt] text-white text-center">Menu</h2>
         </div>
       </div>
       </Link>
@@ -33,7 +33,7 @@ export default function Home() {
     <div className="absolute inset-0 bg-[url('/assets/images/stefangospic_premium_beef_stake_on_a_dark_plate_dark_marble_b_5dcfed36-1f17-418e-86f8-736e696f9307_3.webp')] bg-cover bg-center transition-all duration-300 group-hover:blur-sm"></div>
     <div className="relative z-10 flex justify-center items-center h-[200px]">    
       <div className="w-[100px] bg-black rounded-[6px]">
-        <h2 className="text-[24px] text-white text-center">Blog</h2>
+        <h2 className="text-[20pt] text-white text-center">Blog</h2>
         </div>
     </div>
     </Link>
@@ -45,7 +45,7 @@ export default function Home() {
     <div className="absolute inset-0 bg-[url('/assets/images/stefangospic_premium_beef_stake_on_a_dark_plate_dark_marble_b_5dcfed36-1f17-418e-86f8-736e696f9307_1.webp')] bg-cover bg-center transition-all duration-300 group-hover:blur-sm"></div>
     <div className="relative z-10 flex justify-center items-center h-[200px]">      
       <div className="w-[100px] bg-black rounded-[6px]">
-        <h2 className="text-[24px] text-white text-center">About</h2>
+        <h2 className="text-[20pt] text-white text-center">About</h2>
         </div>
     </div>
     </Link>
