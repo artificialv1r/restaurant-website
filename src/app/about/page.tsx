@@ -22,7 +22,7 @@ export default function About() {
         <p>We specialize exclusively in <b>premium cuts of beef</b>, from juicy <b>ribeye steaks</b> and tender <b>T-bones</b> to flavorful <b>ribs</b> and gourmet <b>beef burgers</b>. Every dish is carefully prepared by our skilled chefs using only the finest, ethically sourced beef—grass-fed, hormone-free, and aged to perfection.</p>
         <p>Our mission is simple:<br/><b>To deliver an unforgettable beef dining experience</b>.</p>
         <p>Whether you're a steak connoisseur or discovering the richness of premium meat for the first time, Premium Govedina offers a menu designed to impress. We combine <b>modern culinary techniques</b> with a deep respect for tradition, bringing out the natural flavor in every bite.</p>
-        <p>Join us and discover why we’re the go-to destination for <b>premium beef lovers</b>.</p>
+        <p>Join us and discover why we're the go-to destination for <b>premium beef lovers</b>.</p>
         </div>
         </div>
         </div>
