@@ -56,21 +56,15 @@ export default function Home() {
         </div>
       </div>
       {/* Mobile Version */}
-      <div className="h-screen w-screen md:hidden">
-        <Navbar />
-        <div className="flex flex-col gap-[20px] p-[20px]">
-          <div className="text-center justify-center">
-            <h1 className="text-[24pt]">
-              Premium Beef. Perfectly Crafted. Unforgettable Flavor.
-            </h1>
-          </div>
-          <div className="text-center h-fit space-y-4">
-            <img
-              className="rounded-[20px]"
-              src="/assets/images/stefangospic_premium_baked_beef_stake_on_a_dark_plate_with_so_4e11e9f3-6f44-44ea-ab19-3e0c8374b568_1.webp"
-              alt=""
-            />
-          </div>
+      <div className="h-screen w-screen p-[15px] flex flex-col gap-[15px] md:hidden">
+        <div className="h-[40dvh] md:h-full  md:w-1/2 p-[20px] bg-[url('/assets/images/stefangospic_premium_baked_beef_stake_on_a_dark_plate_with_so_a553d122-40f8-436e-a0ff-7f7c76dd2742_1.webp')] bg-cover bg-center bg-no-repeat rounded-[20px]">
+          <Navbar />
+        </div>
+        <div className="h-full md:w-1/2 grid grid-cols-1 gap-[10px] p-[20px] bg-linear-to-b from-[#0C0C0C] via-[#040303] to-[#0C0C0C] text-center justify-center rounded-[20px]">
+          <h1 className="text-[24pt]">
+            Premium Beef. Perfectly Crafted. Unforgettable Flavor.
+          </h1>
+
           <div className="text-center">
             <p>
               At Premium Govedina, we&#39;re not just serving meals — we&#39;re
