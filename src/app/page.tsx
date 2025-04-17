@@ -75,23 +75,6 @@ export default function Home() {
               steakhouse excellence.
             </p>
           </div>
-          <div className="w-full gap-[15px] flex justify-evenly">
-            <Link href={"/menu"}>
-              <div className="border-2 w-[100px] py-2 rounded-lg text-center">
-                Menu
-              </div>
-            </Link>
-            <Link href={"/blog"}>
-              <div className="border-2 w-[100px] py-2 rounded-lg text-center">
-                Blog
-              </div>
-            </Link>
-            <Link href={"/about"}>
-              <div className="border-2 w-[100px] py-2 rounded-lg text-center">
-                About
-              </div>
-            </Link>
-          </div>
         </div>
       </div>
     </section>
