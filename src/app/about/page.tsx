@@ -18,12 +18,12 @@ export default function About() {
           <div className="text-center  md:text-left flex flex-col mt-[20px] gap-[10px] text-[12pt] md:text-[16pt] text-[#F3F3F3] font-light">
             <p>
               <span className="font-bold">
-                Welcome to Premium Govedina restaurant
+                Welcome to Premium Beef restaurant
               </span>{" "}
               — where premium beef takes center stage.
             </p>
             <p>
-              At Premium Govedina, we&apos;re passionate about one thing:{" "}
+              At Premium Beef, we&apos;re passionate about one thing:{" "}
               <span className="font-bold">
                 serving the highest-quality beef
               </span>{" "}
@@ -53,8 +53,8 @@ export default function About() {
             </p>
             <p>
               Whether you&apos;re a steak connoisseur or discovering the
-              richness of premium meat for the first time, Premium Govedina
-              offers a menu designed to impress. We combine{" "}
+              richness of premium meat for the first time, Premium Beef offers a
+              menu designed to impress. We combine{" "}
               <span className="font-bold">modern culinary techniques</span> with
               a deep respect for tradition, bringing out the natural flavor in
               every bite.

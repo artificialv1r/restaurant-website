@@ -20,7 +20,7 @@ export default function Navbar() {
           <li className="font-[playfair] text-[20px]/[1]">
             <Link href="/">
               <p>
-                Premium <br /> Govedina
+                Premium <br /> Beef
               </p>
             </Link>
           </li>
@@ -39,7 +39,7 @@ export default function Navbar() {
       <div className="bg-transparent md:hidden">
         <div className="flex justify-between items-center p-[15px]">
           <Link href="/" className="font-[playfair] text-[20px]/[1]">
-            Premium <br /> Govedina
+            Premium <br /> Beef
           </Link>
           <button
             className="text-white bg-black/5 backdrop-blur-sm rounded-full p-2"

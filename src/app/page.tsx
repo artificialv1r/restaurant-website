@@ -11,7 +11,7 @@ export default function Home() {
           <Navbar />
           <div className="w-full h-[75dvh] flex items-end justify-end">
             <h2 className="text-[40px]/[1]  uppercase">
-              Premium <br /> <span className="font-bold">Govedina</span>
+              Premium <br /> <span className="font-bold">Beef</span>
             </h2>
           </div>
         </div>
@@ -67,7 +67,7 @@ export default function Home() {
 
           <div className="text-center">
             <p>
-              At Premium Govedina, we&#39;re not just serving meals — we&#39;re
+              At Premium Beef, we&#39;re not just serving meals — we&#39;re
               serving moments. Indulge in the finest cuts of 100% premium beef,
               expertly grilled and seared to perfection. From succulent ribeye
               steaks and tender T-bone cuts to fall-off-the-bone premium ribs
