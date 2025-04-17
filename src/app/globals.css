@@ -24,8 +24,6 @@
 }
 
 body {
-  background: url('/assets/images/stefangospic_premium_baked_beef_stake_on_a_dark_plate_with_cl_1cee20bd-5a36-4781-88e1-90b9d02f78f5_2.webp') no-repeat center center fixed;
-  background-size: cover;
   color: var(--foreground);
   font-family: var(--font-montserrat), var(--font-playfair), var(--font-raleway);
 }

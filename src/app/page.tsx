@@ -3,11 +3,13 @@ import Navbar from "../../public/components/navbar";
 
 export default function Home() {
   return (
-    <section className="flex flex-col rounded-[20px] md:flex-row bg-black p-[15px] gap-[15px] h-full w-full md:flex-row">
+    <section className="h-full">
+      {/* Desktop Version */}
+    <div className="hidden md:flex flex-col rounded-[20px] md:flex-row bg-black p-[15px] gap-[15px] h-full w-full md:flex-row">
       {/* Hero Section */}
-      <div className="h-full  w-3/4 p-[20px] bg-[url('/assets/images/stefangospic_premium_baked_beef_stake_on_a_dark_plate_with_so_a553d122-40f8-436e-a0ff-7f7c76dd2742_1.webp')] bg-cover bg-center bg-no-repeat rounded-[20px]">
+      <div className="h-full w-3/4 p-[20px] bg-[url('/assets/images/stefangospic_premium_baked_beef_stake_on_a_dark_plate_with_so_a553d122-40f8-436e-a0ff-7f7c76dd2742_1.webp')] bg-cover bg-center bg-no-repeat rounded-[20px]">
         <Navbar />
-        <div className="h-[85%] w-full flex items-end justify-end">
+        <div className="w-full flex items-end justify-end">
         <h2 className="text-[40px]/[1]  uppercase">Premium <br/> <span className="font-bold">Govedina</span></h2>
         </div>
       </div>
@@ -51,6 +53,16 @@ export default function Home() {
     </Link>
     </div>
     </div>
-    </section>
-  );
+    </div>
+    {/* Mobile Version */}
+  <div className="h-screen w-screen md:hidden">
+  <Navbar />
+  <div className="flex flex-col gap-[10px]">
+    <div className="text-center h-screen space-y-4 bg-[url('/assets/images/stefangospic_premium_baked_beef_stake_on_a_dark_plate_with_so_4e11e9f3-6f44-44ea-ab19-3e0c8374b568_1.webp')]">
+      <h1>Premium Govedina</h1>
+    </div>
+  </div>
+  </div>
+  </section>
+);
 }
