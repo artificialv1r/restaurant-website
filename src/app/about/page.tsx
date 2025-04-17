@@ -9,7 +9,7 @@ export default function About() {
       </div>
 
       {/* Special Offers */}
-      <div className="h-fit md:w-1/2 grid grid-cols-1 gap-[10px] p-[20px] bg-linear-to-b from-[#0C0C0C] to-[#040303] md:bg-[url('/assets/images/stefangospic_clean_empty_black_texture_background_with_smoke__f978dd59-baf4-4e78-81ff-7e331c98791c_2.png')] md:bg-cover md:bg-center md:bg-no-repeat rounded-[20px] md:overflow-y-auto md:max-h-[90vh] md:scrollbar-thin md:scrollbar-thumb-black md:scrollbar-track-black">
+      <div className="h-fit md:h-full md:w-1/2 grid grid-cols-1 gap-[10px] p-[20px] bg-linear-to-b from-[#0C0C0C] to-[#040303] md:bg-[url('/assets/images/stefangospic_clean_empty_black_texture_background_with_smoke__f978dd59-baf4-4e78-81ff-7e331c98791c_2.png')] md:bg-cover md:bg-center md:bg-no-repeat rounded-[20px] md:overflow-y-auto md:max-h-[90vh] md:scrollbar-thin md:scrollbar-thumb-black md:scrollbar-track-black">
         {/* Title */}
         <div className="w-full">
           <h3 className="font-semibold italic font-[playfair] text-[24pt] md:text-[36pt] text-center">

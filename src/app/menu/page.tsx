@@ -2,7 +2,7 @@ import Navbar from "../../../public/components/navbar";
 
 export default function Menu() {
   return (
-    <section className="flex flex-col rounded-[20px] bg-black p-[15px] gap-[10px] md:gap-[15px] h-full w-full md:flex-row">
+    <section className="flex flex-col rounded-[20px] bg-black p-[15px] gap-[15px] h-full w-full md:flex-row">
       {/* Hero Section */}
       <div className="h-[60dvh] md:h-full  md:w-1/2 p-[20px] bg-[url('/assets/images/stefangospic_premium_beef_stake_on_a_dark_plate_wit_some_gree_11f964a6-7e67-4630-bfc7-44dbfdd5649b_2.webp')] bg-cover bg-center bg-no-repeat rounded-[20px]">
         <Navbar />

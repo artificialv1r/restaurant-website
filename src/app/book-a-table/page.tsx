@@ -1,6 +1,6 @@
 import Navbar from "../../../public/components/navbar";
 
-export default function Menu() {
+export default function BookTable() {
   return (
     <section className="flex flex-col rounded-[20px] bg-black p-[15px] gap-[15px] h-full w-full md:flex-row">
       {/* Hero Section */}
