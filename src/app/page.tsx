@@ -73,12 +73,12 @@ export default function Home() {
           </div>
           <div className="text-center">
             <p>
-              At Premium Govedina, we're not just serving meals — we're serving
-              moments. Indulge in the finest cuts of 100% premium beef, expertly
-              grilled and seared to perfection. From succulent ribeye steaks and
-              tender T-bone cuts to fall-off-the-bone premium ribs and gourmet
-              beef burgers, every dish is a tribute to true steakhouse
-              excellence.
+              At Premium Govedina, we&#39;re not just serving meals — we&#39;re
+              serving moments. Indulge in the finest cuts of 100% premium beef,
+              expertly grilled and seared to perfection. From succulent ribeye
+              steaks and tender T-bone cuts to fall-off-the-bone premium ribs
+              and gourmet beef burgers, every dish is a tribute to true
+              steakhouse excellence.
             </p>
           </div>
           <div className="flex justify-evenly">
